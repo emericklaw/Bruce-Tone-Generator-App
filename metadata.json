@@ -3,6 +3,9 @@
   "description": "Tone generator that can play different frequencies/musical notes with customisable duration",
   "category": "Audio",
   "files": [
-    "ToneGenerator.js"
+    {
+      "source": "ToneGenerator.js",
+      "destination": "ToneGenerator.js"
+    }
   ]
 }
