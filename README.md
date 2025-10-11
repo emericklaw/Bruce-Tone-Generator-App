@@ -1,4 +1,4 @@
-# Tone Generator Script
+# 🎵 Tone Generator
 
 Tone generator that can play different frequencies/musical notes with customisable duration.
 
