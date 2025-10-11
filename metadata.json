@@ -1,6 +1,6 @@
 {
   "app_name": "Tone Generator",
-  "description": "one generator that can play different frequencies/musical notes with customisable duration",
+  "description": "Tone generator that can play different frequencies/musical notes with customisable duration",
   "files": [
     "ToneGenerator.js"
   ]
