@@ -4,8 +4,8 @@
   "category": "Audio",
   "files": [
     {
-      "source": "ToneGenerator.js",
-      "destination": "ToneGenerator.js"
+      "source": "Tone Generator.js",
+      "destination": "Tone Generator.js"
     }
   ]
 }

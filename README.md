@@ -35,4 +35,4 @@ Tone generator that can play different frequencies/musical notes with customisab
 
 ## Installation
 
-Place the `ToneGenerator.js` file in your Bruce device's `/scripts` directory and run it through the `JS Interpreter` menu.
+Place the `Tone Generator.js` file in your Bruce device's `/scripts` directory and run it through the `JS Interpreter` menu.
